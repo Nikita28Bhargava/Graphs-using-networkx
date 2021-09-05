@@ -1,2 +1,2 @@
-# Turtle
-This contains functions of Turtle library
+# GRAPHS
+This contains different types of graphs which are made using networkx library.
